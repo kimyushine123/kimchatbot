@@ -10,7 +10,7 @@ class SignupActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signup)
 
-        // Find the submit button and set up click listener
+
         val submitButton: Button = findViewById(R.id.btn_submit)
         submitButton.setOnClickListener {
             val intent = Intent(this@SignupActivity, MainActivity::class.java)

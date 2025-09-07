@@ -8,12 +8,7 @@
     android:padding="24dp"
     tools:context=".MainActivity">
 
-    <!-- Logo at top -->
 
-    <!-- CHATBOT Text -->
-
-
-    <!-- Main Illustration -->
 
     <ImageView
         android:id="@+id/iv_top_logo"
@@ -27,9 +22,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <!-- Welcome Text -->
 
-    <!-- Let's have fun -->
 
     <ImageView
         android:id="@+id/iv_main_illustration"
@@ -59,7 +52,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/iv_main_illustration" />
 
-    <!-- Start a conversation -->
+
 
     <TextView
         android:id="@+id/tv_lets_have_fun"
@@ -87,7 +80,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_lets_have_fun" />
 
-    <!-- Start Chat Button -->
+
     <Button
         android:id="@+id/btn_start_chat"
         android:layout_width="0dp"
@@ -103,7 +96,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_subtitle" />
 
-    <!-- Open Dashboard Button -->
+
     <Button
         android:id="@+id/btn_open_dashboard"
         android:layout_width="0dp"
