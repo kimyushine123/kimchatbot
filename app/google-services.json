@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958346622762",
+    "project_id": "kimyushin-ee3c1",
+    "storage_bucket": "kimyushin-ee3c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958346622762:android:71f66d2eb4dd0b5209d053",
+        "android_client_info": {
+          "package_name": "com.example.kimyushin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNVGjeEbptbvQXWvfZLSVBNez0RNDuzHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
